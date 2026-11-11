@@ -13,7 +13,7 @@ This repository is a project showcase for our Analog Circuit course project. The
 ## 📁 Repository Contents
 - `docs/`: Full project report (PDF format).
 - `images/`: PCB layout, physical board photos, breadboard tests, and MATLAB signal plots.
-- `Video Links`: [Insert your Bilibili/YouTube link here]
+- `Video Links`: https://www.bilibili.com/video/BV1qFWS6fEYB/?spm_id_from=333.1387.homepage.video_card.click
 
 ## 📊 Key Results
 - Successfully acquired real-time muscle signals.
