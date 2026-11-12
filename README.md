@@ -2,7 +2,7 @@
 
 This repository is a project showcase for our Analog Circuit course project. The objective was to design, fabricate, and validate a surface Electromyography (EMG) system to capture weak bioelectrical signals from the biceps.
 
-> **Note:** The original design files have been archived. This repository contains the project report, schematic overview, hardware photos, and MATLAB analysis results.
+> **Note:** The original design files have been archived. This repository contains the schematic overview, hardware photos, and MATLAB analysis results.
 
 ## 🛠️ System Overview
 - **Analog Front-End:** INA128U Instrumentation Amplifier, OP07CP Op-Amps.
@@ -11,7 +11,7 @@ This repository is a project showcase for our Analog Circuit course project. The
 - **Data Processing:** MATLAB (Band-pass filtering, 49-50 Hz notch filtering).
 
 ## 📁 Repository Contents
-- `images/`: PCB layout, physical board photos, breadboard tests, and MATLAB signal plots.
+- `Images/`: PCB layout, physical board photos, breadboard tests, and MATLAB signal plots.
 - `Video Links`: https://www.bilibili.com/video/BV1qFWS6fEYB/?spm_id_from=333.1387.homepage.video_card.click
 
 ## 📊 Key Results
